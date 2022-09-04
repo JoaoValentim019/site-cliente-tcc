@@ -1,3 +1,11 @@
+Opa, este é o meu site para o TCC 2020.
+Site desenvolvido para o cliente no ramo de barbearia. 
+Utilizado template bootstrap!
+
+
+
+
+====================================================================
 
 LICENSE:
 
